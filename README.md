@@ -13,7 +13,7 @@
 - ⚡ I love building scalable, clean, and efficient applications  
 - 🌱 Currently improving my skills in Advanced Architecture & Performance  
 - 🖥️ Specialized in React, Laravel & Electron  
-- 📫 Reach me: ilyasousalh41@gmail.com  
+- 📫 Reach me: abdellahoudmine93@gmail.com  
 
 ---
 
